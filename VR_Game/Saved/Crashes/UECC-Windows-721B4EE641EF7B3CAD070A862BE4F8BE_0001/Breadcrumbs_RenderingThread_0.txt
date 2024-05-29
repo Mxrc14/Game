@@ -1,0 +1,6 @@
+Breadcrumbs 'RenderingThread'
+Context 1/2
+	00 Scene
+	01 PostProcessing
+	02 CompositeEditorPrimitives 660x905 MSAA=4
+	03 EditorPrimitives
